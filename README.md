@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m a passionate student, currently sharpening my skills in Java and React. I love exploring new ways to code, problem-solving, and creating cool things on the web.
+👋 Hi there! I’m a passionate CS student, currently sharpening my skills in Java and React. I love exploring new ways to code, problem-solving, and creating cool things on the web.
 
 
 # 💻 Tech Stack:
